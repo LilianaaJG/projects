@@ -12,6 +12,7 @@ public class DriverFactory {
 	
 	private WebDriver driver = null;
 	
+	
 	public WebDriver getDriver(String browser) {	
 		switch(browser.toLowerCase()) {
 			case "chrome"  : 
