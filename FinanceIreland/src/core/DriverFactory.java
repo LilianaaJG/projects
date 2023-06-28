@@ -1,6 +1,7 @@
 package core;
 
 import java.time.Duration;
+
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
